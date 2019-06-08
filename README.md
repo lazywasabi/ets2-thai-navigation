@@ -1,4 +1,4 @@
-# Thai Navigation for ETS2
+# Thai Voice Navigation for ETS2
 
 ม็อดเสียงนำทางภาษาไทยสำหรับเกม Euro Truck Simulator 2
 
