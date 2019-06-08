@@ -1,0 +1,3 @@
+﻿Thai navigation voice
+
+Info, feedback, bug report: pkn.sh/ets2thainav
