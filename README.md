@@ -2,7 +2,7 @@
 
 ม็อดเสียงนำทางภาษาไทยสำหรับเกม Euro Truck Simulator 2
 
-- เสียงพูดจาก Google TTS (เสียงที่ใช้ใน Google Maps / Google Translate) - [ตัวอย่างเสียง](https://cdn.jsdelivr.net/gh/pknme/ets2-thai-navigation@1.0.1/src/sound/navigation/thai_pknme/)
+- เสียงพูดจาก Google TTS (เสียงที่ใช้ใน Google Maps / Google Translate) - [ตัวอย่างเสียง](https://drive.google.com/open?id=16vgrRrnLNtJMZTAjZ-yAVh_azK6wNxR6)
 - แปลครบทุกเสียง ([รายการคำแปล](https://docs.google.com/spreadsheets/d/1LeQqaDqzpfSNewJzGkAVm9Uz0sCMLZa3f3NEy2YA3WY/edit?usp=sharing))
 - รองรับการเตือนจำกัดความเร็วทั้งเสียงพูดและเสียงเตือน
 
