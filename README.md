@@ -4,11 +4,13 @@
 
 - เสียงพูดจาก Google TTS (เสียงที่ใช้ใน Google Maps / Google Translate) - [ตัวอย่างเสียง](https://cdn.jsdelivr.net/gh/pknme/ets2-thai-navigation@1.0.1/src/sound/navigation/thai_pknme/)
 - แปลครบทุกเสียง ([รายการคำแปล](https://docs.google.com/spreadsheets/d/1LeQqaDqzpfSNewJzGkAVm9Uz0sCMLZa3f3NEy2YA3WY/edit?usp=sharing))
-- รองรับเสียงเตือนจำกัดความเร็วทั้งเสียงพูดและเสียงเตือน
+- รองรับการเตือนจำกัดความเร็วทั้งเสียงพูดและเสียงเตือน
 
 ## ดาวน์โหลด
 
-- ดาวน์โหลดบน [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
+[![](workshop-logo.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
+
+ดาวน์โหลดบน [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
 
 หรือ
 
