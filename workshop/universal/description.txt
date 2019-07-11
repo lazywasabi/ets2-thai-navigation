@@ -2,4 +2,4 @@
 
 Required ETS2 version 1.35
 
-Info, feedback, bug report: pkn.sh/ets2thainav
+Info, feedback, bug report: go.pkn.sh/ets2thainav
