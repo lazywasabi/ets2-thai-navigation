@@ -2,7 +2,7 @@ SiiNunit
 {
 mod_package : .pknme.thvoice
 {
-  package_version: "1.1.0"
+  package_version: "1.2.0"
   display_name: "Thai Voice Navigation"
 	author: "PKNME"
   icon: "banner.jpg"
