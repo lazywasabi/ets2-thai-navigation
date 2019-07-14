@@ -4,6 +4,7 @@
 
 - เสียงพูดจาก Google TTS (เสียงที่ใช้ใน Google Maps / Google Translate) - [ดูตัวอย่างบน YouTube](https://youtu.be/9RmfC4OdFG4)
 - แปลครบทุกเสียง ([รายการคำแปล](https://docs.google.com/spreadsheets/d/1LeQqaDqzpfSNewJzGkAVm9Uz0sCMLZa3f3NEy2YA3WY/edit?usp=sharing))
+- ตัวเลือกเสียง 2 แบบ
 - รองรับการเตือนจำกัดความเร็วทั้งเสียงพูดและเสียงเตือน
 
 ## ดาวน์โหลด
@@ -23,8 +24,10 @@
 - เปิดใช้งานม็อด โดยวางไว้ตำแหน่งใดก็ได้ในรายการม็อด
 - เข้าเมนูตั้งค่า Settings > Audio
 - เปิดใช้งาน Voice Navigation
-- ในตัวเลือก Language and voice เลือก "Thai"
-- เลือกตัวเลือกเสียงเตือนจำกัดความเร็ว Speed warning ระหว่าง "Voice" (เสียงพูด) หรือ "Sound" (เสียงเตือน)
+- ในตัวเลือก Language and voice เลือก..
+  - "Thai" มีครบทุกเสียง หลากหลายมากขึ้น
+  - "Thai Alternative" นำเสียงในคำสั่งที่มีหลายเสียงออกให้เหลือเสียงเดียว สมจริงยิ่งขึ้น
+- เลือกตัวเลือกเสียงเตือนจำกัดความเร็ว Speed warning ระหว่าง "Sound" (เสียงเตือน) หรือ "Voice" (เสียงพูด)
 
 ## ขอบคุณ
 
