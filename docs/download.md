@@ -1,8 +1,8 @@
 # ดาวน์โหลด :id=download
 
-## ความต้องการ :id=requirement
+## ความเข้ากันได้ :id=compat
 
-- เกม Euro Truck Simulator 2 หรือ American Truck Simulator เวอร์ชัน 1.35 หรือ 1.36 (open beta)
+- รองรับเกม Euro Truck Simulator 2 หรือ American Truck Simulator เวอร์ชัน 1.35 หรือ 1.36 (open beta) เท่านั้น
 
 ## Steam Workshop (แนะนำ) :id=workshop
 
