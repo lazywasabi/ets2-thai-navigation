@@ -1,0 +1,8 @@
+SiiNunit
+{
+voice_navigation_config : .thai.alt.pknme.pack
+{
+	pack_name: "Thai - Alternative"
+	pack_dir: "/sound/navigation/thai_pknme_alt"
+}
+}

@@ -1,5 +1,12 @@
 SiiNunit {
-  package_version_info : .universal {
-    package_name: "universal"
+  package_version_info : .content {
+    package_name: "content"
+    compatible_versions[]: "1.35.*"
+    compatible_versions[]: "1.36.*"
+  }
+
+  package_version_info : .unsupport {
+    package_name: "unsupport"
+    informational: true
   }
 }

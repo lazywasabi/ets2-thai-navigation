@@ -1,0 +1,11 @@
+SiiNunit
+{
+mod_package : .pknme.thvoice
+{
+  package_version: "2.1.0"
+	author: "PKNME"
+  category[]: "sound"
+  icon: "incompatible.jpg"
+  description_file: "description.txt"
+}
+}
