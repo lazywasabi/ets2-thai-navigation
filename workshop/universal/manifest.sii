@@ -4,6 +4,7 @@ mod_package : .pknme.thvoice
 {
   package_version: "1.2.1"
 	author: "PKNME"
+  category[]: "sound"
   icon: "banner.jpg"
   description_file: "description.txt"
 }
