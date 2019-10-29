@@ -75,7 +75,7 @@ body {
   -webkit-font-smoothing: antialiased;
   color: #34495e;
   font-family: 'IBM Plex Thai Looped', system-ui, sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   letter-spacing: 0;
   margin: 0;
   overflow-x: hidden;
@@ -305,15 +305,12 @@ main.hidden {
   width: 284px;
   z-index: 30;
 }
-.sidebar-toggle .sidebar-toggle-button:hover {
-  opacity: 0.4;
-}
 .sidebar-toggle span {
   background-color: var(--theme-color, #42b983);
   display: block;
-  margin-bottom: 4px;
-  width: 16px;
-  height: 2px;
+  margin-bottom: 5px;
+  width: 26px;
+  height: 3px;
 }
 body.sticky .sidebar,
 body.sticky .sidebar-toggle {
