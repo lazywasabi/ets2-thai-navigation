@@ -10,8 +10,8 @@
 
 <div style="text-align: center;">
 
-[![สมัครสมาชิก Steam Workshop สำหรับเกม Euro Truck Simulator 2](/images/ets2-logo.png ':size=200')](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
-[![สมัครสมาชิก Steam Workshop สำหรับเกม American Truck Simulator](/images/ats-logo.png ':size=200')](https://steamcommunity.com/sharedfiles/filedetails/?id=1900877329)
+[![สมัครสมาชิก Steam Workshop สำหรับเกม Euro Truck Simulator 2](images/ets2-logo.png ':size=200')](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
+[![สมัครสมาชิก Steam Workshop สำหรับเกม American Truck Simulator](images/ats-logo.png ':size=200')](https://steamcommunity.com/sharedfiles/filedetails/?id=1900877329)
 
 </div>
 
