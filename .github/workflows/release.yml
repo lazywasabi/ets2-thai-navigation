@@ -1,0 +1,24 @@
+name: release
+
+on: release
+
+jobs:
+  build-scs:
+    name: Build and upload SCS file
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull source
+        uses: actions/checkout@v1
+		
+      - name: Archive
+        uses: thedoctor0/zip-release@master
+        with:
+          filename: 'thai-navigation.scs'
+          path: 'src'
+
+      - name: Upload to release
+        uses: JasonEtco/upload-to-release@master
+        with:
+          args: thai-navigation.scs application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
