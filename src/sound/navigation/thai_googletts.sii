@@ -3,5 +3,6 @@ SiiNunit
 voice_navigation_config : .thai.pack
 {
 	pack_name: "Thai - Google TTS"
+	pack_dir: "/sound/navigation/thai_googletts"
 }
 }
