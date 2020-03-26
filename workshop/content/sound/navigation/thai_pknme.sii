@@ -1,8 +1,0 @@
-SiiNunit
-{
-voice_navigation_config : .thai.pknme.pack
-{
-	pack_name: "Thai"
-	pack_dir: "/sound/navigation/thai_pknme"
-}
-}
