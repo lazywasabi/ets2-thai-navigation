@@ -1,6 +1,7 @@
 ﻿Thai Voice Navigation 3.0.0
 
-Required ETS2 or ATS version 1.35 and later
+REQUIRED ETS2 OR ATS VERSION 1.35 AND 1.36
+FOR 1.37 PLEASE DOWNLOAD SEPARATE PACKAGE
 
 - Support Euro Truck Simulator 2 and American Truck Simulator
 - Support FMOD sound engine
