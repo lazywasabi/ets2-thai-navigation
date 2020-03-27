@@ -2,7 +2,7 @@ SiiNunit
 {
 mod_package : .pknme.thvoice
 {
-  package_version: "2.1.0"
+  package_version: "3.0.0"
   display_name: "Thai Voice Navigation"
 	author: "PKNME"
   category[]: "sound"
@@ -10,5 +10,6 @@ mod_package : .pknme.thvoice
   description_file: "description.txt"
   compatible_versions[]: "1.35.*"
   compatible_versions[]: "1.36.*"
+  compatible_versions[]: "1.37.*"
 }
 }
