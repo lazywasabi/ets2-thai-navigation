@@ -8,8 +8,6 @@ mod_package : .pknme.thvoice
   category[]: "sound"
   icon: "banner.jpg"
   description_file: "description.txt"
-  compatible_versions[]: "1.35.*"
-  compatible_versions[]: "1.36.*"
   compatible_versions[]: "1.37.*"
 }
 }
