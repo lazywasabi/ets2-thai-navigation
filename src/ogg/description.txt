@@ -8,4 +8,4 @@ FOR 1.37 AND LATER PLEASE DOWNLOAD SEPARATE PACKAGE
 - Voice from Google TTS (Same as Google Maps)
 - Support all commands including sound and voice for speed limit warning
 
-Website: pakin.me/ets2thainav
+Website: lazywasabi.com/ets2thainav

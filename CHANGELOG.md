@@ -11,7 +11,7 @@
 - ปรับปรุงคำแปลเสียง
   - exit_now (ใช้ทางออก → ออกจากวงเวียน)
 - ปรับปรุงไฟล์เสียง
-- ย้ายเว็บไซต์ไปยัง [pakin.me/ets2thainav](https://pakin.me/ets2thainav/)
+- ย้ายเว็บไซต์ไปยัง [lazywasabi.com/ets2thainav](https://lazywasabi.com/ets2thainav/)
 
 ## v2.1.0
 
