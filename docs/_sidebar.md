@@ -1,7 +1,0 @@
-* [หน้าแรก](/)
-* [ดาวน์โหลด](/download.md "ดาวน์โหลด")
-* [วิธีใช้งาน](/guide.md "วิธีใช้งาน")
-* [คำสั่งเสียง](/command.md "คำสั่งเสียง")
-* [บันทึกการเปลี่ยนแปลง](/changelog.md "บันทึกการเปลี่ยนแปลง")
-* [เครดิต](/credits.md "เครดิต")
-* [GitHub](https://github.com/pknme/ets2-thai-navigation "GitHub")
