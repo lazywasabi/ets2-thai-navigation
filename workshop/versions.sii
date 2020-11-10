@@ -3,6 +3,7 @@ SiiNunit {
     package_name: "content"
     compatible_versions[]: "1.37.*"
     compatible_versions[]: "1.38.*"
+    compatible_versions[]: "1.39.*"
   }
 
   package_version_info : .136 {
