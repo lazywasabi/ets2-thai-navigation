@@ -1,6 +1,6 @@
-﻿Thai Voice Navigation 3.2.0
+﻿Thai Voice Navigation 3.3.0
 
-REQUIRED ETS2 OR ATS VERSION 1.37 - 1.39
+REQUIRED ETS2 OR ATS VERSION 1.37 - 1.40
 FOR 1.35 - 1.36 PLEASE DOWNLOAD SEPARATE PACKAGE
 
 - Support Euro Truck Simulator 2 and American Truck Simulator
