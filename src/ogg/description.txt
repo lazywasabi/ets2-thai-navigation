@@ -1,11 +1,13 @@
-﻿Thai Voice Navigation 3.3.0
+﻿Thai Voice Navigation 4.0.0
 
 REQUIRED ETS2 OR ATS VERSION 1.37 - 1.40
 FOR 1.37 AND LATER PLEASE DOWNLOAD SEPARATE PACKAGE
 
+- 2 Voices:
+  - Google TTS (Same as Google Maps)
+  - Yuki (Audio by Yuki & Fo- Nightcore)
 - Support Euro Truck Simulator 2 and American Truck Simulator
 - Support FMOD sound engine
-- Voice from Google TTS (Same as Google Maps)
 - Support all commands including sound and voice for speed limit warning
 
 Website: lazywasabi.com/ets2thainav
