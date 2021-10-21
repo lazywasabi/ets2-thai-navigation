@@ -8,7 +8,7 @@
 
 ## v4.0.0
 
-- เพิ่มเสียงใหม่ "Yuki" พากย์เสียงโดย [Yuki จาก Alone Studio](https://www.youtube.com/watch?v=PAZzOOeV-i8) ตัดต่อโดย [Fo- Nightcore](https://www.youtube.com/channel/UClve2QtJR2WM3KE6zgVBKTw) ([วิดีโอตัวอย่าง](https://youtu.be/X76cJzy-qFE))
+- เพิ่มเสียงใหม่ "Yuki" พากย์เสียงโดย [Yuki จาก Alone Studio](https://www.youtube.com/watch?v=PAZzOOeV-i8) ตัดต่อโดย [hiyamikan](https://www.instagram.com/hiyamikan/) ([วิดีโอตัวอย่าง](https://youtu.be/X76cJzy-qFE))
 - อัปเดตภาพแบนเนอร์ม็อด ทั้งในเกมและบน Steam Workshop
 
 ## v3.3.0
