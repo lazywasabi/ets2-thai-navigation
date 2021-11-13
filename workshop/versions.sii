@@ -7,6 +7,7 @@ SiiNunit {
     compatible_versions[]: "1.40.*"
     compatible_versions[]: "1.41.*"
     compatible_versions[]: "1.42.*"
+    compatible_versions[]: "1.43.*"
   }
 
   package_version_info : .136 {
