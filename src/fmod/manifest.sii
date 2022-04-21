@@ -15,5 +15,6 @@ mod_package : .pknme.thvoice
   compatible_versions[]: "1.41.*"
   compatible_versions[]: "1.42.*"
   compatible_versions[]: "1.43.*"
+  compatible_versions[]: "1.44.*"
 }
 }
