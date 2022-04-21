@@ -1,6 +1,6 @@
-﻿Thai Voice Navigation 4.2.0
+﻿Thai Voice Navigation 4.3.0
 
-[red]Required ETS2 or ATS version 1.35 - 1.43
+[red]Required ETS2 or ATS version 1.35 - 1.44
 
 [white]
 - 2 Voices:
