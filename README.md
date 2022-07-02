@@ -1,4 +1,8 @@
 # Thai Voice Navigation for ETS2/ATS
+[![Latest Release](https://img.shields.io/github/v/release/lazywasabi/ets2-thai-navigation?label=Latest%20Version&logo=github)](https://github.com/lazywasabi/ets2-thai-navigation/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/lazywasabi/ets2-thai-navigation/total?label=Downloads&logo=github)](https://github.com/lazywasabi/ets2-thai-navigation/releases)
+[![Steam Subscriptions (ETS2)](https://img.shields.io/steam/subscriptions/1764313195?label=Steam%20Subscriptions%20%28ETS2%29&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
+[![Steam Subscriptions (ATS)](https://img.shields.io/steam/subscriptions/1900877329?label=Steam%20Subscriptions%20%28ATS%29&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=1900877329)
 
 ม็อดเสียงนำทางภาษาไทยสำหรับเกม Euro Truck Simulator 2 และ American Truck Simulator
 
