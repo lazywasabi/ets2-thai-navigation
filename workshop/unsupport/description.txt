@@ -1,6 +1,6 @@
 ﻿Thai Voice Navigation 4.6.0
 
-[red]Required ETS2 or ATS version 1.35 - 1.46
+[red]Required ETS2 or ATS version 1.35 - 1.47
 
 [white]
 - 2 Voices:
@@ -10,4 +10,4 @@
 - Support FMOD sound engine
 - Support all commands including sound and voice for speed limit warning
 
-Website: lazywasabi.com/ets2thainav
+Website: github.com/lazywasabi/ets2-thai-navigation
