@@ -16,15 +16,15 @@
 
 ## ดาวน์โหลด
 
-เวอร์ชันม็อด 4.6.0 อัปเดตล่าสุด 15 มี.ค. 2566  
-รองรับเกมเวอร์ชัน 1.37 - 1.47
+เวอร์ชันม็อด 4.7.0 อัปเดตล่าสุด 23 มิ.ย. 2566  
+รองรับเกมเวอร์ชัน 1.37 - 1.48
 
 **ดาวน์โหลดผ่าน Steam Workshop:**
 - [Euro Truck Simulator 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
 - [American Truck Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1900877329)
 
 **ดาวน์โหลดไฟล์ม็อดโดยตรง:** (ทั้ง 2 เกมใช้ไฟล์ม็อดเดียวกัน)
-- [thai-navigation-4.6.0.scs](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v4.6.0/thai-navigation-4.6.0.scs)
+- [thai-navigation-4.7.0.scs](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v4.7.0/thai-navigation-4.7.0.scs)
 
 ## วิธีใช้งาน
 
