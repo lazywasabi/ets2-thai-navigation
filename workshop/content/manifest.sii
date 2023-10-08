@@ -2,7 +2,7 @@ SiiNunit
 {
 mod_package : .pknme.thvoice
 {
-  package_version: "4.7.0"
+  package_version: "5.0.0"
 	author: "LazyWasabi"
   category[]: "sound"
   icon: "banner.jpg"

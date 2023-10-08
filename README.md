@@ -7,24 +7,25 @@
 ม็อดเสียงนำทางภาษาไทยสำหรับเกม Euro Truck Simulator 2 และ American Truck Simulator
 
 - 🚚 รองรับเกม Euro Truck Simulator 2 และ American Truck Simulator
-- 🔊 รองรับเอนจินเสียง FMOD® พร้อมใช้งานกับเกมเวอร์ชัน 1.37 ขึ้นไป
-- 🗣 2 เสียงนำทาง
+- 🔊 รองรับเอนจินเสียง FMOD®
+- 🗣 3 เสียงนำทาง
   - Google TTS - เสียงที่ใช้ใน Google Maps
+  - Microsoft TTS
   - Yuki - พากย์เสียงโดย [Yuki จาก Alone Studio](https://www.youtube.com/channel/UCp9esxbHaanP3hBLgfO96pQ) ตัดต่อโดย [hiyamikan](https://www.instagram.com/hiyamikan/)
 - ✅ ไฟล์เสียงครบทุกคำสั่ง
-- ⚠️รองรับการเตือนจำกัดความเร็วทั้งเสียงพูดและสัญญาณเตือน
+- ⚠️ รองรับการเตือนจำกัดความเร็วทั้งเสียงพูดและสัญญาณเตือน
 
 ## ดาวน์โหลด
 
-เวอร์ชันม็อด 4.7.0 อัปเดตล่าสุด 23 มิ.ย. 2566  
-รองรับเกมเวอร์ชัน 1.37 - 1.48
+เวอร์ชันม็อด 5.0.0 อัปเดตล่าสุด 10 ต.ค. 2566  
+รองรับเกมเวอร์ชัน 1.43 - 1.48
 
 **ดาวน์โหลดผ่าน Steam Workshop:**
 - [Euro Truck Simulator 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
 - [American Truck Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1900877329)
 
 **ดาวน์โหลดไฟล์ม็อดโดยตรง:** (ทั้ง 2 เกมใช้ไฟล์ม็อดเดียวกัน)
-- [thai-navigation-4.7.0.scs](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v4.7.0/thai-navigation-4.7.0.scs)
+- [thai-navigation-5.0.0.scs](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v5.0.0/thai-navigation.scs)
 
 ## วิธีใช้งาน
 
@@ -44,8 +45,8 @@
 | and_then_go_straight | and then continue straight on          | จากนั้นวิ่งตรงต่อไป                 |
 | and_then_keep_left   | and then keep left                     | จากนั้นชิดซ้าย                      |
 | and_then_keep_right  | and then keep right                    | จากนั้นชิดขวา                       |
-| and_then_turn_left   | and then turn left                     | จากนั้นเลี้ยวขวา                    |
-| and_then_turn_right  | and then turn right                    | จากนั้นเลี้ยวซ้าย                   |
+| and_then_turn_left   | and then turn left                     | จากนั้นเลี้ยวซ้าย                    |
+| and_then_turn_right  | and then turn right                    | จากนั้นเลี้ยวขวา                   |
 | compound_exit_left   | Exit left                              | ใช้ทางออกด้านซ้าย                   |
 | compound_exit_right  | Exit right                             | ใช้ทางออกด้านขวา                    |
 | compound_go_straight | Go straight on                         | วิ่งตรงต่อไป                        |
@@ -62,8 +63,8 @@
 | keep_right           | Keep right                             | ชิดขวา                              |
 | prepare_exit_left    | Get ready to exit left                 | เตรียมใช้ทางออกด้านซ้าย             |
 | prepare_exit_right   | Get ready to exit right                | เตรียมใช้ทางออกด้านขวา              |
-| prepare_turn_left    | Get ready to turn left                 | เตรียมเลี้ยวขวา                     |
-| prepare_turn_right   | Get ready to turn right                | เตรียมเลี้ยวซ้าย                    |
+| prepare_turn_left    | Get ready to turn left                 | เตรียมเลี้ยวซ้าย                     |
+| prepare_turn_right   | Get ready to turn right                | เตรียมเลี้ยวขวา                    |
 | recomputing          | Recomputing                            | กำลังค้นหาเส้นทางใหม่               |
 | roundabout_1         | At the roundabout take the first exit  | เมื่อถึงวงเวียนใช้ทางออกที่หนึ่ง    |
 | roundabout_2         | At the roundabout take the second exit | เมื่อถึงวงเวียนใช้ทางออกที่สอง      |
@@ -82,10 +83,8 @@
 
 - [SCS Software](https://scssoft.com/)
 - เทมเพลตม็อดจาก [Wombat Trucker](https://www.youtube.com/watch?v=ax-6sP_PVpU)
-- เสียงพูดจาก [Google TTS](https://cloud.google.com/text-to-speech)
+- เสียงพูดจาก [Google TTS](https://cloud.google.com/text-to-speech) และ [TTSMaker](https://ttsmaker.com/)
 - เสียง Yuki พากย์เสียงโดย [Yuki จาก Alone Studio](https://www.youtube.com/channel/UCp9esxbHaanP3hBLgfO96pQ) และตัดต่อโดย [hiyamikan](https://www.instagram.com/hiyamikan/)
 - [FMOD Studio](https://www.fmod.com/studio)
 - เครื่องมือ[แปลงเสียง FMOD จาก Koen](https://forum.scssoft.com/viewtopic.php?f=201&t=282438)
 - ข้อมูลจากกระทู้ [FMOD Discussion](https://forum.scssoft.com/viewtopic.php?f=178&t=281124)
-
-หมายเหตุ: เสียง Yuki สงวนลิขสิทธิ์โดยเจ้าของผลงาน ผมจึงไม่อัปโหลดไฟล์ต้นฉบับของเสียงนี้ขึ้น GitHub ครับ
