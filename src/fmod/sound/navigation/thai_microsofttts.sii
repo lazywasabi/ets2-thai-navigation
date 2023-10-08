@@ -1,0 +1,7 @@
+SiiNunit
+{
+voice_navigation_config : .thai.mircosoft.pack
+{
+	pack_name: "Thai - Microsoft TTS"
+}
+}
