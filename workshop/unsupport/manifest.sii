@@ -7,5 +7,6 @@ mod_package : .pknme.thvoice
   category[]: "sound"
   icon: "incompatible.jpg"
   description_file: "description.txt"
+  mp_mod_optional: true
 }
 }
