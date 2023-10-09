@@ -2,10 +2,11 @@ SiiNunit
 {
 mod_package : .pknme.thvoice
 {
-  package_version: "5.0.0"
+  package_version: "5.0.1"
 	author: "LazyWasabi"
   category[]: "sound"
   icon: "banner.jpg"
   description_file: "description.txt"
+  mp_mod_optional: true
 }
 }
