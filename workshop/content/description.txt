@@ -1,6 +1,6 @@
-﻿Thai Voice Navigation 5.3.0
+﻿Thai Voice Navigation 5.4.0
 
-REQUIRED ETS2 OR ATS VERSION 1.43 - 1.51
+REQUIRED ETS2 OR ATS VERSION 1.43 - 1.52
 
 - 3 Voices:
   - Google TTS (Same as Google Maps)
