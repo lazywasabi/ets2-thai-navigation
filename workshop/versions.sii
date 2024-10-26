@@ -11,6 +11,7 @@ SiiNunit {
     compatible_versions[]: "1.50.*"
     compatible_versions[]: "1.51.*"
     compatible_versions[]: "1.52.*"
+    compatible_versions[]: "1.53.*"
   }
 
   package_version_info : .unsupport {
