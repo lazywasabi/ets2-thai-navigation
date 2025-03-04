@@ -7,13 +7,11 @@
 ม็อดเสียงนำทางภาษาไทยสำหรับเกม Euro Truck Simulator 2 และ American Truck Simulator
 
 - 🚚 รองรับเกม Euro Truck Simulator 2 และ American Truck Simulator
-- 🔊 รองรับเอนจินเสียง FMOD®
 - 🗣 3 เสียงนำทาง
-  - Google TTS - เสียงที่ใช้ใน Google Maps
+  - Google TTS
   - Microsoft TTS
   - Yuki - พากย์เสียงโดย [Yuki จาก Alone Studio](https://www.youtube.com/channel/UCp9esxbHaanP3hBLgfO96pQ) ตัดต่อโดย [hiyamikan](https://www.instagram.com/hiyamikan/)
 - ✅ ไฟล์เสียงครบทุกคำสั่ง
-- ⚠️ รองรับการเตือนจำกัดความเร็วทั้งเสียงพูดและสัญญาณเตือน
 - 👥 รองรับโหมดเล่นหลายคน (Convoy)
 
 ## ดาวน์โหลด
@@ -29,9 +27,30 @@
 **ดาวน์โหลดไฟล์ม็อดโดยตรง:** (ทั้ง 2 เกมใช้ไฟล์ม็อดเดียวกัน)
 - [thai-navigation.scs](https://github.com/lazywasabi/ets2-thai-navigation/releases/latest/download/thai-navigation.scs)
 
+<details>
+<summary>สำหรับเกมเวอร์ชันเก่า</summary>
+  
+- เกมเวอร์ชัน 1.37 - 1.42 ดาวน์โหลด[ม็อดเวอร์ชัน 4.7.0](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v4.7.0/thai-navigation-4.7.0.scs)
+- เกมเวอร์ชัน 1.35 - 1.36 ดาวน์โหลด[ม็อดเวอร์ชัน 4.1.1](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v4.1.1/thai-navigation-136-4.1.1.scs)
+- เกมเวอร์ชันต่ำกว่า 1.35 ไม่รองรับเสียงนำทาง
+
+</details>
+
+## วิธีติดตั้ง
+
+### Windows
+
+- เกม Euro Truck Simulator 2 นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `Documents\Euro Truck Simulator 2\mod`
+- เกม American Truck Simulator นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `Documents\American Truck Simulator\mod`
+
+### macOS
+
+- เกม Euro Truck Simulator 2 นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `~/Library/Application Support/Euro Truck Simulator 2/mod`
+- เกม American Truck Simulator นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `~/Library/Application Support/American Truck Simulator/mod`
+
 ## วิธีใช้งาน
 
-- เปิดใช้งานม็อด โดยวางไว้ตำแหน่งใดก็ได้ในรายการม็อด
+- เปิดใช้งานม็อดในเกม โดยวางไว้ตำแหน่งใดก็ได้ในรายการม็อด
 - เข้าเมนูตั้งค่า Options > Audio
 - เปิดใช้งาน Voice Navigation
 - ในตัวเลือก Language and voice เลือก "Thai - Google TTS" หรือ "Thai - Microsoft TTS" หรือ "Thai - Yuki"
