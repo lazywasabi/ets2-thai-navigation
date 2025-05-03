@@ -20,7 +20,7 @@ mod_package : .pknme.thvoice
   compatible_versions[]: "1.51.*"
   compatible_versions[]: "1.52.*"
   compatible_versions[]: "1.53.*"
-  compatible_versions[]: "1.55.*"
+  compatible_versions[]: "1.54.*"
   compatible_versions[]: "1.55.*"
 }
 }
