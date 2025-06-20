@@ -2,12 +2,10 @@
 
 REQUIRED ETS2 OR ATS VERSION 1.43 - 1.55
 
-- 3 Voices:
-  - Google TTS (Same as Google Maps)
-  - Microsoft TTS
-  - Yuki (Audio by Yuki & hiyamikan)
-- Support Euro Truck Simulator 2 and American Truck Simulator
-- Support FMOD sound engine
-- Support all commands including sound and voice for speed limit warning
+4 Thai navigation voices:
+- Google TTS 1
+- Google TTS 2
+- Microsoft TTS
+- Yuki
 
 Website: github.com/lazywasabi/ets2-thai-navigation
