@@ -7,8 +7,9 @@
 ม็อดเสียงนำทางภาษาไทยสำหรับเกม Euro Truck Simulator 2 และ American Truck Simulator
 
 - 🚚 รองรับเกม Euro Truck Simulator 2 และ American Truck Simulator
-- 🗣 3 เสียงนำทาง
-  - Google TTS
+- 🗣 4 เสียงนำทาง
+  - Google TTS 1 (เก่า)
+  - Google TTS 2 (ใหม่)
   - Microsoft TTS
   - Yuki - พากย์เสียงโดย [Yuki จาก Alone Studio](https://www.youtube.com/channel/UCp9esxbHaanP3hBLgfO96pQ) ตัดต่อโดย [hiyamikan](https://www.instagram.com/hiyamikan/)
 - ✅ ไฟล์เสียงครบทุกคำสั่ง
@@ -16,8 +17,8 @@
 
 ## ดาวน์โหลด
 
-เวอร์ชันม็อด 5.7.0  
-อัปเดตล่าสุด 3 พ.ค. 2568  
+เวอร์ชันม็อด 6.0.0  
+อัปเดตล่าสุด 20 มิ.ย. 2568  
 รองรับเกมเวอร์ชัน 1.43 - 1.55
 
 **ดาวน์โหลดผ่าน Steam Workshop:**
@@ -53,7 +54,7 @@
 - เปิดใช้งานม็อดในเกม โดยวางไว้ตำแหน่งใดก็ได้ในรายการม็อด
 - เข้าเมนูตั้งค่า Options > Audio
 - เปิดใช้งาน Voice Navigation
-- ในตัวเลือก Language and voice เลือก "Thai - Google TTS" หรือ "Thai - Microsoft TTS" หรือ "Thai - Yuki"
+- ในตัวเลือก Language and voice เลือกเสียงที่ขึ้นต้นด้วย "Thai" (กดปุ่ม Preview เพื่อฟังตัวอย่างได้)
 - เลือกตัวเลือกเสียงเตือนจำกัดความเร็ว Speed warning ระหว่าง "Sound" (สัญญาณเตือน) หรือ "Voice" (เสียงพูด)
 - หากเสียงนำทางเบาหรือดังเกินไป ปรับระดับเสียงได้ที่เมนู Voice navigation volume ด้านบน
 - สำหรับโหมดเล่นหลายคน (Convoy) สามารถใช้ม็อดนี้เล่นได้เลย โดยผู้เล่นอื่นไม่จำเป็นต้องดาวน์โหลดม็อดนี้
