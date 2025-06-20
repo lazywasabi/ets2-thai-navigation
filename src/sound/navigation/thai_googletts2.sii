@@ -1,0 +1,7 @@
+SiiNunit
+{
+voice_navigation_config : .thai.google2.pack
+{
+	pack_name: "Thai - Google TTS 2"
+}
+}
