@@ -41,13 +41,13 @@
 
 ### Windows
 
-- เกม Euro Truck Simulator 2 นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `Documents\Euro Truck Simulator 2\mod`
-- เกม American Truck Simulator นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `Documents\American Truck Simulator\mod`
+- เกม Euro Truck Simulator 2 นำไฟล์ม็อดไปวางไว้ที่โฟลเดอร์ `Documents\Euro Truck Simulator 2\mod`
+- เกม American Truck Simulator นำไฟล์ม็อดไปวางไว้ที่โฟลเดอร์ `Documents\American Truck Simulator\mod`
 
 ### macOS
 
-- เกม Euro Truck Simulator 2 นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `~/Library/Application Support/Euro Truck Simulator 2/mod`
-- เกม American Truck Simulator นำไฟม็อดไปวางไว้ที่โฟลเดอร์ `~/Library/Application Support/American Truck Simulator/mod`
+- เกม Euro Truck Simulator 2 นำไฟล์ม็อดไปวางไว้ที่โฟลเดอร์ `~/Library/Application Support/Euro Truck Simulator 2/mod`
+- เกม American Truck Simulator นำไฟล์ม็อดไปวางไว้ที่โฟลเดอร์ `~/Library/Application Support/American Truck Simulator/mod`
 
 ## วิธีใช้งาน
 
