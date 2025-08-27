@@ -1,23 +1,5 @@
 SiiNunit {
   package_version_info : .content {
     package_name: "content"
-    compatible_versions[]: "1.43.*"
-    compatible_versions[]: "1.44.*"
-    compatible_versions[]: "1.45.*"
-    compatible_versions[]: "1.46.*"
-    compatible_versions[]: "1.47.*"
-    compatible_versions[]: "1.48.*"
-    compatible_versions[]: "1.49.*"
-    compatible_versions[]: "1.50.*"
-    compatible_versions[]: "1.51.*"
-    compatible_versions[]: "1.52.*"
-    compatible_versions[]: "1.53.*"
-    compatible_versions[]: "1.54.*"
-    compatible_versions[]: "1.55.*"
-  }
-
-  package_version_info : .unsupport {
-    package_name: "unsupport"
-    informational: true
   }
 }
