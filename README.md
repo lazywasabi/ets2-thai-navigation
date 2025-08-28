@@ -17,9 +17,9 @@
 
 ## ดาวน์โหลด
 
-เวอร์ชันม็อด 6.0.0  
-อัปเดตล่าสุด 20 มิ.ย. 2568  
-รองรับเกมเวอร์ชัน 1.43 - 1.55
+เวอร์ชันม็อด 6.1.0  
+อัปเดตล่าสุด 28 ส.ค. 2568  
+รองรับเกมเวอร์ชัน 1.43 ขึ้นไป
 
 **ดาวน์โหลดผ่าน Steam Workshop:**
 - [Euro Truck Simulator 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1764313195)
@@ -29,7 +29,7 @@
 - [thai-navigation.scs](https://github.com/lazywasabi/ets2-thai-navigation/releases/latest/download/thai-navigation.scs)
 
 <details>
-<summary>สำหรับเกมเวอร์ชันเก่า</summary>
+<summary>สำหรับเกมเวอร์ชันเก่ากว่า 1.43</summary>
   
 - เกมเวอร์ชัน 1.37 - 1.42 ดาวน์โหลด[ม็อดเวอร์ชัน 4.7.0](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v4.7.0/thai-navigation-4.7.0.scs)
 - เกมเวอร์ชัน 1.35 - 1.36 ดาวน์โหลด[ม็อดเวอร์ชัน 4.1.1](https://github.com/lazywasabi/ets2-thai-navigation/releases/download/v4.1.1/thai-navigation-136-4.1.1.scs)
